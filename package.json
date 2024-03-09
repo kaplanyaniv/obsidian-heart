@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-heart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "decode": "node decode-private.js",
+    "encode": "node encode-private.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
