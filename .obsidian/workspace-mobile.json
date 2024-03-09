@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "2034c9399c49a5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58bfe4413586258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10072dcec991ef02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "איזורים ומקומות/איזורים טבעים/היער המכוסכס.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcdd5896755f6301",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f972da11b7d4ac27",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "af704408f6a3ff0f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c3f5f25b58d9f89b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1c94637381a67baa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "04bf877801b1c249",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c55181a5268d15e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "איזורים ומקומות/איזורים טבעים/היער המכוסכס.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9aa660cd6dbbf4dd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "איזורים ומקומות/איזורים טבעים/היער המכוסכס.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "425155230e210583",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "איזורים ומקומות/איזורים טבעים/היער המכוסכס.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "10072dcec991ef02",
+  "lastOpenFiles": [
+    "יצורים/אלים/זארא.md",
+    "איזורים ומקומות/איזורים טבעים/היער המכוסכס.md",
+    "יצורים/אלים/קוראז.md",
+    "אירועים היסטורים ותקופות/אירועים/מחיקת שמות הפרשים.md",
+    "יצורים/אלים/הרעב.md",
+    "קלאסים/אבירי הטבעות.md",
+    "קבוצות, אירגונים וכתות/הפאריס.md",
+    "קלאסים/אוכל סיפורים.md",
+    "אירועים היסטורים ותקופות/עידנים/תנומת הסולטן.md",
+    "אירועים היסטורים ותקופות/אירועים/לידת האלים מחדש.md",
+    "דמויות/הסולטן.md",
+    "חפצים וחומרים/אבקת סיפורים.md",
+    "README.md",
+    "יצורים/יצורי הלב/חיות/החיות הצומחות של היער המכוסכס.md",
+    "יצורים/יצורי הלב/אל-מתים/מומיות.md",
+    "איזורים ומקומות/מוסדות/הפקה של דיו ואבקת סיפורים/מכרות.md",
+    "תת_קבצים/heart - the city beneath.pdf",
+    "יצורים/יצורי הלב/חיות/חרק קשת בענן.md",
+    "יצורים/יצורי הלב/אל-מתים/אבירי מוות.md",
+    "תת_קבצים/נמר פרחים.png",
+    "איזורים ומקומות/מוסדות/האקדמיות/האקדמיה הצפונית.md",
+    "תת_קבצים/כדן עובד.png",
+    "יצורים/יצורי הלב/אל-מתים/זומבים.md",
+    "יצורים/גזעים/גמדים.md",
+    "תת_קבצים/יסודן אוויר.jpg",
+    "יצורים/יצורי הלב/אל-מתים/אוכלי נוולות.md",
+    "איזורים ומקומות/מוסדות/הפקה של דיו ואבקת סיפורים/המזקקות המלכותיות.md",
+    "חפצים וחומרים/גרגרי החולות החיים.md",
+    "חפצים וחומרים/גלימת הדבורים המוזהות.md",
+    "השמש והכוכבים/הרוזטות והכוכבים.md",
+    "תת_קבצים/אריה פרחים.webp",
+    "תת_קבצים/כדנים מקדימה ואחורה.png",
+    "תת_קבצים/כדן ישן.png"
+  ]
+}
