@@ -18,3 +18,4 @@ const encodePrivate = (fileContent) => {
 }
 
 copyFiles(PRIVATE_FOLDER, PUBLIC_FOLDER, encodePrivate);
+console.log('Private files encoded');
